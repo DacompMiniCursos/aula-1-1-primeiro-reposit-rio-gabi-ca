@@ -3,3 +3,4 @@ meu primeiro commit!
 nasci em Brasília mas vim cursar Ciencia da Computação no Maranhão!
 tenho duas amigas muito fofas que querem me apresentar todas as atrações culturais do Maranhão! <3
 amo muito praias e paisagens naturais, e sou muito grata por estar morando numa cidade litoranea! :D
+muito obrigado por ler todos os meus primeiros commits. ate a proxima!
