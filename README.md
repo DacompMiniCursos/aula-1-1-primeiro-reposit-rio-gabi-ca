@@ -1,3 +1,4 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/0cG_zi6a)
 meu primeiro commit!
 nasci em Brasília mas vim cursar Ciencia da Computação no Maranhão!
+tenho duas amigas muito fofas que querem me apresentar todas as atrações culturais do Maranhão! <3
